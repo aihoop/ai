@@ -151,7 +151,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 16px;
 }
 #bloc-2 p{
-	font-size: 16px;
+	line-height: 140%;
+	font-size: 18px;
 }
 #bloc-5 p{
 	font-size: 16px;
@@ -169,22 +170,22 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 42px;
 }
 #artikel-1 p{
-	font-size: 18px;
 	line-height: 140%;
+	font-size: 18px;
 }
 #bloc-11 h2{
 	font-size: 42px;
 }
 #bloc-11 p{
-	font-size: 18px;
 	line-height: 140%;
+	font-size: 18px;
 }
 #bloc-12 h2{
 	font-size: 42px;
 }
 #bloc-12 p{
-	font-size: 18px;
 	line-height: 140%;
+	font-size: 18px;
 }
 
 /* = NavBar
@@ -313,6 +314,10 @@ nav .caret{
 	border-bottom-color:transparent;
 	margin: 6px -5px 0 0!important;
 	float: right;
+}
+.hero .hero-nav{
+	padding-left:inherit;
+	padding-right:inherit;
 }
 
 /* Nav Special Close Button */
