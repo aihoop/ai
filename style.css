@@ -151,8 +151,8 @@ a:hover{text-decoration: none; cursor:pointer;}
 	font-size: 16px;
 }
 #bloc-2 p{
-	line-height: 140%;
 	font-size: 18px;
+	line-height: 140%;
 }
 #bloc-5 p{
 	font-size: 16px;
@@ -166,26 +166,26 @@ a:hover{text-decoration: none; cursor:pointer;}
 #bloc-8 p{
 	font-size: 18px;
 }
-#artikel-1 h2{
+#bloc-10 h2{
 	font-size: 42px;
 }
-#artikel-1 p{
-	line-height: 140%;
+#bloc-10 p{
 	font-size: 18px;
+	line-height: 140%;
 }
 #bloc-11 h2{
 	font-size: 42px;
 }
 #bloc-11 p{
-	line-height: 140%;
 	font-size: 18px;
+	line-height: 140%;
 }
 #bloc-12 h2{
 	font-size: 42px;
 }
 #bloc-12 p{
-	line-height: 140%;
 	font-size: 18px;
+	line-height: 140%;
 }
 
 /* = NavBar
